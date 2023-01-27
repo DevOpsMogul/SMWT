@@ -34,6 +34,6 @@ $(document).ready(function(){
 		window.open("https://github.com/DevOpsMogul");
     });
 	$("#kaiyuan").click(function(){
-		window.open("https://github.com/DevOpsMogul");
+		window.open("https://github.com/DevOpsMogul/SMWT");
     });
 })
