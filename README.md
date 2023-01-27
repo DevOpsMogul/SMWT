@@ -1,4 +1,4 @@
-<h1 align="center">网站根目录</h1>
+<h1 align="center">SMWT（超级现代战舰工具）</h1>
 
 <div align="center">
 <strong>
@@ -12,15 +12,15 @@
 
 ## 项目介绍
 
-自制静态网站根目录，全面开源，可下载
+开源的现代战舰新手大佬工具
 
 ### 官方网站
 
-[官网地址](https://DevOpsMogul.github.io/gw)
+[官网地址](https://DevOpsMogul.github.io/)
 
 ### 背景
 
-开发者是个写前端的屑，没事做点小网站，也希望可以帮到别人
+开发者是个写前端的屑，没事做点小网站小软件，也希望可以帮到别人
 
 ## 旗下网站
 
