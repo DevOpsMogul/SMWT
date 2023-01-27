@@ -1,0 +1,39 @@
+$(document).ready(function(){
+	var domain = "xxxx.com";
+    $("#bdpan").click(function(){
+        window.open("shuju.html");
+    });
+    $("#email163").click(function(){
+        window.open("email.html");
+    });
+	$("#diskStation").click(function(){
+        window.open("game.html");
+    });
+    $("#wanwu").click(function(){
+        window.open("xunwne.html");
+    });
+    $("#emby").click(function(){
+		window.open("https://pd.qq.com/s/e6fn9y7wp");
+    });
+	$("#fanhui").click(function(){
+		window.open("index.html");
+    });
+	$("#yiwen").click(function(){
+		window.open("yiwen.html");
+    });
+	$("#gm").click(function(){
+		window.open("gm.html");
+    });
+	$("#help").click(function(){
+		window.open("look.html");
+    });
+	$("#fan").click(function(){
+		window.open("game.html");
+    });
+	$("#github").click(function(){
+		window.open("https://github.com/DevOpsMogul");
+    });
+	$("#kaiyuan").click(function(){
+		window.open("https://github.com/DevOpsMogul");
+    });
+})
