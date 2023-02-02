@@ -16,7 +16,7 @@
 
 ### 官方网站
 
-[官网地址](https://furry-devops.github.io/)
+[官网地址](https://furry-smwt.github.io/)
 
 ### 背景
 
